@@ -83,7 +83,16 @@ class ActionCoronaTracker(Action):
         dispatcher.utter_message(text=message)
 
         return []
-        
+<b>  Commands <b> <br>
+ rasa train (for training model). <br>
+ 
+ rass shell (comand interface provider between user and bot). <br>
+ 
+ rasa shell --debug.<br>
+ 
+ rasa x (UI interface).<br>
+ 
+ rasa train nlu(training nlu.md file). <br>        
 <b>To run server </b> <br>
     sudo rasa run actions
 <b>To run shell </b>  <br>
