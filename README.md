@@ -5,7 +5,7 @@
 pip install rasa <br>
 rasa init <br>
 
-<h2>   Importent concepts:  </h2>
+<h2>   Important concepts:  </h2>
 
 <b> Intent: </b>
 Intent means purpose/aim/target of chatbot of the user input example, if user typed "I want to order a book?" here intent would be "ordering..." <br>
