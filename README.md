@@ -1,5 +1,5 @@
 # Covid-19-Tracker-ChatBot
-A chatbot which gives updated details about covid19 spread all over India. This chatbot is made using RASA.It can answer your basic questions like "How are you?" and corona based questions like "Can you give me details of corona in Jharkhand?" More functionality coming soon...!!!
+ COVID-19 Tracker ChatBot in which it tries to understand multiple intents, extract the Named Entity Recognition (NER) values, implementing a custom COVID-19 visual response, and has Slack integration.A chatbot which gives updated details about covid19 spread all over India. This chatbot is made using RASA.It can answer your basic questions like "How are you?" and corona based questions like "Can you give me details of corona in Jharkhand?" 
 
 <h2>Installation </h2>
 pip install rasa <br>
